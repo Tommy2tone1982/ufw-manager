@@ -3,7 +3,9 @@ This is a Interactive Script made to Manange UFW Firewall, Makes adding and dele
 
 
 =================================
+    
     🔥 Interactive UFW Manager   
+
 =================================
 1) Check UFW Status & Current Rules
 2) Allow Ports (Continuous Mode)
@@ -14,5 +16,7 @@ This is a Interactive Script made to Manange UFW Firewall, Makes adding and dele
 7) Disable UFW
 8) Toggle IPv6 Rule Creation [Current: Disabled]
 9) Exit
+
 =================================
+
 Choose an option [1-9]: 
