@@ -1,1 +1,1 @@
-This is A Ai generated Interactive Script made to Manange UFW Firewall, Makes adding and deleting rules simple, give it a try
+This is a Interactive Script made to Manange UFW Firewall, Makes adding and deleting rules simple, give it a try, also supports enableing or disableing IPV6 rule creation from the menu with a check to see whether or not they are enabled. Has option for opening ports for any or specific ip/subnets in a easy manner. Let me know what you think.
